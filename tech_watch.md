@@ -40,15 +40,16 @@ This thread doesn't be enough, but this is a easy way to find a first list of to
 
 ## Chosen technologies 
 
-### IDE 
+### IDE VSCode 
 
 *  Name/doc link: (VS Code)[https://code.visualstudio.com/docs]  
 *  Reasons: 
     - I've been using it since more than 3 years. 
-    Although I am using only a few of its fonctionnalities, they are enough to show to me its interest: 
+    Although I am using only a few of its fonctionnalities, they are enough to show to me its first interests: 
     - It's a Microsoft software, then it's easy to rely to and use GitHub, that earns to Microsoft too. 
     - The extensions system allows to get specified tools for each of the languages and/or technos that we are using. 
     - The docs are relatively complete, but the help's forums give a lot of solvings and tricks with this IDE. 
+    - It's the most ever used IDE since at least 2020, and the most maintained of the Microsoft softwares. 
 
 
 **After having chosen the IDE, we have to chose some extensions to work with...** 
@@ -77,7 +78,7 @@ This is an extension of VSCode, to help to write Python code.
 
 
 
-### Fct Snyk VSCode extension 
+### Snyk VSCode extension 
 
 *  Name/doc link:     
     (Snyk)[https://snyk.io/] 
