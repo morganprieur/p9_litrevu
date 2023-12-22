@@ -3,3 +3,4 @@
 /volumes
 snyk.exe
 .dcignore
+db.sqlite3

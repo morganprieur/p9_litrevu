@@ -1,0 +1,17 @@
+certifi==2023.7.22
+charset-normalizer==3.3.0
+colorama==0.4.6
+distlib==0.3.7
+django-ip-geolocation==1.6.1
+django-ipware==5.0.1
+filelock==3.12.2
+idna==3.4
+Pillow==10.0.1
+pipenv==2023.7.23
+platformdirs==3.10.0
+python-ipware==1.0.3
+requests==2.31.0
+tqdm==4.66.1
+urllib3==2.0.6
+virtualenv==20.24.2
+virtualenv-clone==0.5.7
